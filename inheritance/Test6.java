@@ -68,6 +68,5 @@ public class Test6 {
 		Person p2 = new Employee(2,"Rohit Kumar", 25, 63686559, 20000, "Btech", "Java Developer");
 		p1.display();
 		p2.display();
-		
 	}
 }
