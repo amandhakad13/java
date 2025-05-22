@@ -7,6 +7,5 @@ class Test3 {
 		for(char c : ch) {
 			System.out.println(c);
 		}
-		
 	}
 }
