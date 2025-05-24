@@ -6,7 +6,7 @@ public class Test2 {
 		
 		String hex = Integer.toOctalString(num);
 		
-		System.out.println("Hexadecimal of "+num+" is : "+hex);
+		System.out.println("Octal of "+num+" is : "+hex);
 		
 	}
 }
