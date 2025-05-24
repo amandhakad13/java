@@ -4,9 +4,9 @@ public class Test2 {
 		
 		int num = 28;
 		
-		String hex = Integer.toOctalString(num);
+		String oct = Integer.toOctalString(num);
 		
-		System.out.println("Octal of "+num+" is : "+hex);
+		System.out.println("Octal of "+num+" is : "+oct);
 		
 	}
 }
